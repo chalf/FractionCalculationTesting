@@ -1,0 +1,13 @@
+D:\Downloads\KiemThuPhanMem\74_Hieu_TinhToanPhanSo\74_Hieu_TinhToanPhanSo\bin\Debug\74_Hieu_TinhToanPhanSo.exe.config
+D:\Downloads\KiemThuPhanMem\74_Hieu_TinhToanPhanSo\74_Hieu_TinhToanPhanSo\bin\Debug\74_Hieu_TinhToanPhanSo.exe
+D:\Downloads\KiemThuPhanMem\74_Hieu_TinhToanPhanSo\74_Hieu_TinhToanPhanSo\bin\Debug\74_Hieu_TinhToanPhanSo.pdb
+D:\Downloads\KiemThuPhanMem\74_Hieu_TinhToanPhanSo\74_Hieu_TinhToanPhanSo\bin\Debug\Newtonsoft.Json.dll
+D:\Downloads\KiemThuPhanMem\74_Hieu_TinhToanPhanSo\74_Hieu_TinhToanPhanSo\bin\Debug\Newtonsoft.Json.xml
+D:\Downloads\KiemThuPhanMem\74_Hieu_TinhToanPhanSo\74_Hieu_TinhToanPhanSo\obj\Debug\74_Hieu_TinhToanPhanSo.csproj.AssemblyReference.cache
+D:\Downloads\KiemThuPhanMem\74_Hieu_TinhToanPhanSo\74_Hieu_TinhToanPhanSo\obj\Debug\_74_Hieu_TinhToanPhanSo.Form1.resources
+D:\Downloads\KiemThuPhanMem\74_Hieu_TinhToanPhanSo\74_Hieu_TinhToanPhanSo\obj\Debug\_74_Hieu_TinhToanPhanSo.Properties.Resources.resources
+D:\Downloads\KiemThuPhanMem\74_Hieu_TinhToanPhanSo\74_Hieu_TinhToanPhanSo\obj\Debug\74_Hieu_TinhToanPhanSo.csproj.GenerateResource.cache
+D:\Downloads\KiemThuPhanMem\74_Hieu_TinhToanPhanSo\74_Hieu_TinhToanPhanSo\obj\Debug\74_Hieu_TinhToanPhanSo.csproj.CoreCompileInputs.cache
+D:\Downloads\KiemThuPhanMem\74_Hieu_TinhToanPhanSo\74_Hieu_TinhToanPhanSo\obj\Debug\74_Hieu_TinhToanPhanSo.csproj.CopyComplete
+D:\Downloads\KiemThuPhanMem\74_Hieu_TinhToanPhanSo\74_Hieu_TinhToanPhanSo\obj\Debug\74_Hieu_TinhToanPhanSo.exe
+D:\Downloads\KiemThuPhanMem\74_Hieu_TinhToanPhanSo\74_Hieu_TinhToanPhanSo\obj\Debug\74_Hieu_TinhToanPhanSo.pdb
